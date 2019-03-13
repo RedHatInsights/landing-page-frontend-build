@@ -1,6 +1,6 @@
 {
   "app_name": "lading-page",
-  "src_hash": "74d5bd5b5c08627b4b763299d97cd2020df6197c",
+  "src_hash": "1ec1c55744124f9cd0fa9ad9140e303b43f7c64f",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -316,7 +316,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "24",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/505763780"
+    "build_number": "27",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/505773750"
   }
 }
