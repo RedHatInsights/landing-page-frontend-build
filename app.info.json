@@ -1,6 +1,6 @@
 {
   "app_name": "lading-page",
-  "src_hash": "d4a47d39dfb1ce66bc148e8f212ee202cc039463",
+  "src_hash": "88f1764fe95fffb30317268dfa48669e461266fd",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -152,6 +152,11 @@
       "from": "eslint-plugin-react@7.12.4",
       "resolved": "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.12.4.tgz"
     },
+    "file-loader": {
+      "version": "3.0.1",
+      "from": "file-loader@3.0.1",
+      "resolved": "https://registry.npmjs.org/file-loader/-/file-loader-3.0.1.tgz"
+    },
     "git-revision-webpack-plugin": {
       "version": "3.0.3",
       "from": "git-revision-webpack-plugin@3.0.3",
@@ -228,9 +233,9 @@
       "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-16.8.3.tgz"
     },
     "react-redux": {
-      "version": "6.0.1",
-      "from": "react-redux@6.0.1",
-      "resolved": "https://registry.npmjs.org/react-redux/-/react-redux-6.0.1.tgz"
+      "version": "5.1.1",
+      "from": "react-redux@5.1.1",
+      "resolved": "https://registry.npmjs.org/react-redux/-/react-redux-5.1.1.tgz"
     },
     "react-router-dom": {
       "version": "4.3.1",
@@ -238,9 +243,9 @@
       "resolved": "https://registry.npmjs.org/react-router-dom/-/react-router-dom-4.3.1.tgz"
     },
     "redux": {
-      "version": "4.0.1",
-      "from": "redux@4.0.1",
-      "resolved": "https://registry.npmjs.org/redux/-/redux-4.0.1.tgz"
+      "version": "3.7.2",
+      "from": "redux@3.7.2",
+      "resolved": "https://registry.npmjs.org/redux/-/redux-3.7.2.tgz"
     },
     "redux-logger": {
       "version": "3.0.6",
@@ -311,7 +316,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "15",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/505380997"
+    "build_number": "21",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/505755668"
   }
 }
