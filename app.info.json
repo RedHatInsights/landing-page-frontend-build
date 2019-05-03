@@ -1,11 +1,11 @@
 {
   "app_name": "landing",
-  "src_hash": "b55be48273c5e85aae69af3dfa683f1e60db4c4f",
+  "src_hash": "d254c921fda4b96c4a2f8592151fabd1234fd55a",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "230",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/527877862"
+    "build_number": "235",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/527922419"
   }
 }
