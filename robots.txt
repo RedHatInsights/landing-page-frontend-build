@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /404.html
 Disallow: /logout.html
+Disallow: /config/*
+Disallow: /beta/*
