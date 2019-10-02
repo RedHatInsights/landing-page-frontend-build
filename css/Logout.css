@@ -1,0 +1,12 @@
+.ins-c-page__logout {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center; }
+  .ins-c-page__logout h1 {
+    margin-bottom: 30px;
+    margin-bottom: 1.875rem; }
+  .ins-c-page__logout button {
+    font-size: 20px;
+    font-size: 1.25rem; }
+
