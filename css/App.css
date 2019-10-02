@@ -1,0 +1,230 @@
+.Icon404 {
+  height: 150px; }
+  .Icon404 .cls-1 {
+    fill: #fff; }
+  .Icon404 .cls-1, .Icon404 .cls-3 {
+    fill-rule: evenodd; }
+  .Icon404 .cls-2 {
+    opacity: 0.5; }
+  .Icon404 .cls-4 {
+    mask: url(#mask); }
+
+.ins-c-page__404 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; }
+  .ins-c-page__404 .ins-c-text__sorry {
+    max-width: 70%; }
+  .ins-c-page__404 h1, .ins-c-page__404 svg {
+    margin-bottom: 30px;
+    margin-bottom: 1.875rem; }
+  .ins-c-page__404 button {
+    font-size: 20px;
+    font-size: 1.25rem; }
+
+.ins-c-open-card {
+  color: var(--pf-global--link--Color); }
+
+.ins-c-card__link:hover {
+  text-decoration: none; }
+  .ins-c-card__link:hover .ins-c-open-card {
+    color: var(--pf-global--link--Color--hover);
+    text-decoration: underline; }
+
+.ins-p-landing__content .pf-l-gallery {
+  --pf-l-gallery--GridTemplateColumns: repeat(auto-fill, minmax(350px, 1fr)); }
+
+.ins-p-landing__content .pf-l-grid {
+  grid-gap: 1.5rem; }
+
+/* stylelint-enable */
+.ins-c-hero {
+  background: url("/apps/chrome/assets/images/fedora-background-left.svg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .ins-c-hero h1.pf-c-title {
+    color: white;
+    text-align: center;
+    font-size: 44px;
+    font-size: 2.75rem; }
+  .ins-c-hero h2 {
+    text-align: center;
+    font-size: 18px;
+    font-size: 1.125rem;
+    color: var(--pf-global--Color--200); }
+  @media screen and (min-width: 0) {
+    .ins-c-hero {
+      min-height: 400px;
+      min-height: 25rem; } }
+  @media screen and (min-width: 768px) {
+    .ins-c-hero {
+      min-height: 550px;
+      min-height: 34.375rem; } }
+
+.ins-c-marketing {
+  padding-top: 40px;
+  padding-top: 2.5rem; }
+  .ins-c-marketing .pf-l-grid {
+    grid-gap: 1.5rem; }
+  .ins-c-marketing .pf-c-card__header,
+  .ins-c-marketing .pf-c-card__body,
+  .ins-c-marketing .ins-c-application-logo,
+  .ins-c-marketing .pf-c-card__footer {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; }
+  .ins-c-marketing .pf-c-card {
+    padding: 40px 0px;
+    padding: 2.5rem 0rem; }
+    .ins-c-marketing .pf-c-card img.ins-c-application-info__logo {
+      min-height: 65px;
+      min-height: 4.0625rem; }
+    .ins-c-marketing .pf-c-card .pf-c-card__footer {
+      margin-top: 40px; }
+  .ins-c-marketing .pf-l-split.pf-m-gutter > :not(:last-child) {
+    margin-right: 8px;
+    margin-right: 0.46875rem; }
+  .ins-c-marketing .ins-c-open-card {
+    color: var(--pf-global--link--Color); }
+  .ins-c-marketing .ins-c-card__link:hover {
+    text-decoration: none; }
+    .ins-c-marketing .ins-c-card__link:hover .ins-c-open-card {
+      color: var(--pf-global--link--Color--hover);
+      text-decoration: underline; }
+
+:root {
+  --ins-c-redhat-red: #e00; }
+
+#redhat-logo .cls-1 {
+  fill: var(--ins-c-redhat-red); }
+
+/* stylelint-enable */
+.ins-c-footer__traditional {
+  padding: 30px 60px;
+  padding: 1.875rem 3.75rem;
+  background-color: var(--pf-c-page__main-section--BackgroundColor); }
+  .ins-c-footer__traditional svg {
+    width: 150px;
+    width: 9.375rem; }
+  .ins-c-footer__traditional .ins-c-footer__traditional-nav .copyright {
+    color: var(--pf-global--Color--200);
+    margin-right: 30px;
+    margin-right: 1.875rem; }
+  .ins-c-footer__traditional .ins-c-footer__traditional-nav * {
+    font-size: var(--pf-global--FontSize--sm); }
+  @media screen and (min-width: 992px) {
+    .ins-c-footer__traditional .ins-c-footer__traditional-nav li + li::before {
+      content: '|';
+      color: var(--pf-global--Color--200);
+      margin-right: var(--pf-global--spacer--md); } }
+
+/* stylelint-enable */
+:root {
+  --ins-global--Color--green: #37912f; }
+
+.ins-c-application-info .ins-m-gray {
+  color: var(--pf-global--Color--200); }
+
+.ins-m-tech-preview {
+  color: var(--ins-global--Color--green); }
+
+.ins-m-dev-preview {
+  color: #39A5DC; }
+
+.pf-c-card.ins-c-application-info {
+  height: 100%; }
+  .pf-c-card.ins-c-application-info img.ins-c-application-info__logo {
+    height: 56px;
+    height: 3.5rem;
+    max-width: initial; }
+  .pf-c-card.ins-c-application-info svg.ins-c-application-info__logo {
+    height: 56px;
+    height: 3.5rem;
+    width: 56px;
+    width: 3.5rem; }
+  .pf-c-card.ins-c-application-info h2 {
+    margin-top: 15px; }
+
+.pf-c-card .ins-c-application-info__open {
+  display: block; }
+  .pf-c-card .ins-c-application-info__open span {
+    margin-right: 15px; }
+
+.pf-c-card .ins-c-application-info__content-applist {
+  display: flex;
+  flex-direction: column; }
+  .pf-c-card .ins-c-application-info__content-applist a {
+    display: block;
+    text-transform: capitalize; }
+  .pf-c-card .ins-c-application-info__content-applist a + a {
+    margin-top: 10px; }
+
+.pf-c-card .ins-c-navigation {
+  color: var(--pf-global--active-color--100); }
+
+.pf-c-modal-box__body .pf-c-empty-state img.ins-c-application-info__logo {
+  height: 76px;
+  height: 4.75rem; }
+
+svg.ins-c-icon__active {
+  fill: var(--pf-global--active-color--100); }
+
+.pf-c-modal-box .pf-c-title {
+  white-space: normal; }
+
+sup.ins-c-rball {
+  font-size: 10px;
+  font-size: 0.625rem; }
+
+.ins-c-application-info__split {
+  height: 100%; }
+  .ins-c-application-info__split .ins-c-application-info__open {
+    margin-top: auto;
+    margin-bottom: 0; }
+
+.ins-c-error-modal {
+  max-width: 700px;
+  max-width: 43.75rem; }
+
+.ins-c-error-state {
+  text-align: center;
+  margin: 0 32px; }
+  .ins-c-error-state .ins-c-error-state__title {
+    font-weight: 400;
+    margin-top: 15px;
+    margin-top: 0.9375rem; }
+  .ins-c-error-state .ins-c-error-state__image img, .ins-c-error-state .ins-c-error-state__image svg {
+    height: 100px;
+    height: 6.25rem;
+    width: auto; }
+  .ins-c-error-state .ins-c-error-state__footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: var(--pf-c-empty-state--c-button--MarginTop); }
+    .ins-c-error-state .ins-c-error-state__footer-close {
+      margin-top: 10px;
+      margin-top: 0.625rem; }
+
+.pf-c-card.pf-m-card-link {
+  position: relative; }
+  .pf-c-card.pf-m-card-link .pf-c-card__card-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+  .pf-c-card.pf-m-card-link .ins-c-open-card {
+    position: relative; }
+  .pf-c-card.pf-m-card-link:hover .ins-c-open-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background: var(--pf-global--link--Color); }
+
