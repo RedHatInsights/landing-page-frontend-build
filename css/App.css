@@ -40,6 +40,8 @@
   grid-gap: 1.5rem; }
 
 /* stylelint-enable */
+/* stylelint-disable */
+/* stylelint-enable */
 .ins-c-hero {
   background: url("/apps/chrome/assets/images/fedora-background-left.svg");
   background-repeat: no-repeat;
@@ -101,6 +103,8 @@
   fill: var(--ins-c-redhat-red); }
 
 /* stylelint-enable */
+/* stylelint-disable */
+/* stylelint-enable */
 .ins-c-footer__traditional {
   padding: 30px 60px;
   padding: 1.875rem 3.75rem;
@@ -120,6 +124,8 @@
       color: var(--pf-global--Color--200);
       margin-right: var(--pf-global--spacer--md); } }
 
+/* stylelint-enable */
+/* stylelint-disable */
 /* stylelint-enable */
 :root {
   --ins-global--Color--green: #37912f; }
