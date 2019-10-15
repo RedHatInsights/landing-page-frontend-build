@@ -1,0 +1,46 @@
+.Icon404 {
+  height: 150px; }
+  .Icon404 .cls-1 {
+    fill: #fff; }
+  .Icon404 .cls-1, .Icon404 .cls-3 {
+    fill-rule: evenodd; }
+  .Icon404 .cls-2 {
+    opacity: 0.5; }
+  .Icon404 .cls-4 {
+    mask: url(#mask); }
+
+.ins-c-page__404 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; }
+  .ins-c-page__404 .ins-c-text__sorry {
+    max-width: 70%; }
+  .ins-c-page__404 h1, .ins-c-page__404 svg {
+    margin-bottom: 30px;
+    margin-bottom: 1.875rem; }
+  .ins-c-page__404 button {
+    font-size: 20px;
+    font-size: 1.25rem; }
+
+.pf-c-card.pf-m-card-link {
+  position: relative; }
+  .pf-c-card.pf-m-card-link .pf-c-card__card-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+  .pf-c-card.pf-m-card-link .ins-c-open-card {
+    position: relative; }
+  .pf-c-card.pf-m-card-link:hover .ins-c-open-card::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background: var(--pf-global--link--Color); }
+
