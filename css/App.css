@@ -24,7 +24,7 @@
 
 .pf-l-level{--pf-l-level--m-gutter--MarginRight: var(--pf-global--gutter);display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between}.pf-l-level.pf-m-gutter>*:not(:last-child){margin-right:var(--pf-l-level--m-gutter--MarginRight)}
 
-.ins-c-landing-page .pf-c-title{font-weight:500}
+.ins-c-landing-page .pf-c-page .pf-c-title{font-weight:500}
 
 .pf-l-bullseye{--pf-l-bullseye--Padding: 0;display:flex;align-items:center;justify-content:center;height:100%;padding:var(--pf-l-bullseye--Padding);margin:0}
 
