@@ -1,12 +1,12 @@
 {
   "app_name": "landing",
-  "src_hash": "97212f306104c1b4dedd8b56b50fe91c51af00eb",
+  "src_hash": "24ee414402ae8cf2cc64ee3efd1c9093fa859c22",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.10.29","@patternfly/react-core@4.18.5","UNMET PEER DEPENDENCY @patternfly/react-icons@4.3.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "1416",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/733897636"
+    "build_number": "1419",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/landing-page-frontend/builds/733915055"
   }
 }
