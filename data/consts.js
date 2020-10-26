@@ -5,6 +5,7 @@ import Cost from './components/Cost.svg';
 import Insights from './components/Insights.svg';
 import Migrations from './components/Migrations.svg';
 import Openshift from './components/Openshift.svg';
+import SAP from './components/SAP.svg';
 
 import insightsMarketing from './components/marketing/insightsMarketing.svg';
 import openShiftMarketing from './components/marketing/openShiftMarketing.svg';
@@ -98,7 +99,7 @@ export const activeTechnologies = [
         baseApp: '/automation-analytics',
         image: Automation,
         title: 'Red Hat Ansible Automation Platform',
-        body: 'Extend your automation with analytics, policy and governance, and content management.',
+        body: 'Extend your automation with analytics, content management, and policy and governance.',
         apps: {
             'automation analytics': '/automation-analytics',
             'automation hub': '/automation-hub',
@@ -128,6 +129,50 @@ export const activeTechnologies = [
                 title: 'Not now'
             }
         }
+    },
+    {
+        id: 'subscriptions',
+        entitlement: 'subscriptions',
+        url: 'subscriptions',
+        image: Subscriptions,
+        title: 'Subscription Watch',
+        body: 'Account-level summaries of your Red Hat subscription utilization',
+        baseApp: '/rhel-sw',
+        apps: {
+            'Red Hat Enterprise Linux': '/rhel-sw',
+            'Red Hat OpenShift': '/openshift-sw'
+        },
+        marketing: false,
+        emptyTitle: 'Subscription Watch',
+        emptyID: 'subscription-watch',
+        emptyText: [
+            'Subscription Watch enables you to understand your total subscription usage and capacity across your hybrid infrastructure over time.',
+            <br key="sw1" />,
+            <br key="sw2" />,
+            'If you are interested in trying Subscription Watch, your Red Hat account team can help.'
+        ],
+        emptyAction: {
+            primary: {
+                title: 'Contact us',
+                navigate: 'https://access.redhat.com/account-team'
+            },
+            close: {
+                title: 'Not now'
+            }
+        }
+    },
+    {
+        id: 'sap',
+        url: 'insights',
+        baseApp: '/sap',
+        entitlement: 'insights',
+        marketing: false,
+        image: SAP,
+        apps: {
+            dashboard: '/sap'
+        },
+        title: 'Insights for SAP',
+        body: 'Leverage Red Hat Insights to manage, optimize and remediate risks to your SAP landscape.'
     },
     {
         id: 'Cost Management',
@@ -185,37 +230,6 @@ export const activeTechnologies = [
         }
     },
     {
-        id: 'subscriptions',
-        entitlement: 'subscriptions',
-        url: 'subscriptions',
-        image: Subscriptions,
-        title: 'Subscription Watch',
-        body: 'Account-level summaries of your Red Hat subscription utilization',
-        baseApp: '/rhel-sw',
-        apps: {
-            'Red Hat Enterprise Linux': '/rhel-sw',
-            'Red Hat OpenShift': '/openshift-sw'
-        },
-        marketing: false,
-        emptyTitle: 'Subscription Watch',
-        emptyID: 'subscription-watch',
-        emptyText: [
-            'Subscription Watch enables you to understand your total subscription usage and capacity across your hybrid infrastructure over time.',
-            <br key="sw1" />,
-            <br key="sw2" />,
-            'If you are interested in trying Subscription Watch, your Red Hat account team can help.'
-        ],
-        emptyAction: {
-            primary: {
-                title: 'Contact us',
-                navigate: 'https://access.redhat.com/account-team'
-            },
-            close: {
-                title: 'Not now'
-            }
-        }
-    },
-    {
         id: 'settings',
         entitlement: 'settings',
         url: 'settings',
@@ -228,5 +242,12 @@ export const activeTechnologies = [
         url: 'user-preferences',
         disabled: true,
         emptyAlertTitle: 'You need an account number to access this page'
+    },
+    {
+        id: 'internal',
+        entitlement: 'internal',
+        url: 'internal',
+        disabled: true,
+        emptyAlertTitle: 'You do not have access to this page'
     }
 ];
