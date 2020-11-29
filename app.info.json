@@ -6,7 +6,7 @@
   "patternfly_dependencies": ["@patternfly/patternfly@4.65.6","@patternfly/react-charts@6.12.4","@patternfly/react-core@4.79.4","@patternfly/react-icons@4.7.18","@patternfly/react-tokens@4.9.18"],
   "travis": {
     "event_type": "cron",
-    "build_number": "1499",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/landing-page-frontend/builds/205062554"
+    "build_number": "1500",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/landing-page-frontend/builds/205221613"
   }
 }
