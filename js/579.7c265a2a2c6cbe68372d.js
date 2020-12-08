@@ -1,0 +1,1 @@
+(self.webpackChunklanding_page_frontend=self.webpackChunklanding_page_frontend||[]).push([[579],{5579:(e,n,a)=>{"use strict";a.r(n),a.d(n,{default:()=>d.Z});var d=a(810)}}]);
