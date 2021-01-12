@@ -1,0 +1,2 @@
+(self.webpackChunklanding_page_frontend=self.webpackChunklanding_page_frontend||[]).push([[651],{45651:(e,n,t)=>{"use strict";t.r(n);var r=t(80150),a=t.n(r),l=t(70695),d=t.n(l),u=t(80810);d().render(a().createElement(u.Z,null),document.getElementById("root"))}}]);
+//# sourceMappingURL=651.6f71f78fc736ff154a4d.js.map
