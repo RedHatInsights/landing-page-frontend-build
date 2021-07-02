@@ -1,1 +1,0 @@
-(self.webpackChunklanding_page_frontend=self.webpackChunklanding_page_frontend||[]).push([[456],{39456:(e,n,t)=>{"use strict";t.r(n);var r=t(92950),a=t.n(r),l=t(12181),d=t.n(l),u=t(82501);d().render(a().createElement(u.Z,null),document.getElementById("root"))}}]);
