@@ -1,2 +1,2 @@
 "use strict";(self.webpackChunklanding_page_frontend=self.webpackChunklanding_page_frontend||[]).push([[458],{2246:(e,n,t)=>{t.r(n);var r=t(2950),a=t.n(r),l=t(2181),d=t.n(l),u=t(9535);d().render(a().createElement(u.Z,null),document.getElementById("root"))}}]);
-//# sourceMappingURL=../sourcemaps/458.eaea8ddc10801b173730.js.map
+//# sourceMappingURL=../sourcemaps/458.0c71afa918e51443de42.js.map
