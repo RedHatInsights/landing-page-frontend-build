@@ -1,12 +1,12 @@
 {
   "app_name": "landing",
-  "src_hash": "7a3e9678d98d17ca616ae8ad072c6d918d9779bc",
+  "src_hash": "d7649c08506d2f6c612884f513f824a9ab0dc444",
   "src_tag": "",
   "src_branch": "nightly",
-  "patternfly_dependencies": ["@patternfly/patternfly@4.125.3","@patternfly/react-charts@6.15.14","@patternfly/react-core@4.148.0","@patternfly/react-icons@4.11.8","@patternfly/react-tokens@4.12.9"],
+  "patternfly_dependencies": ["@patternfly/patternfly@4.125.3","@patternfly/react-charts@6.15.15","@patternfly/react-core@4.148.2","@patternfly/react-icons@4.11.8","@patternfly/react-tokens@4.12.10"],
   "travis": {
     "event_type": "cron",
-    "build_number": "2326",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/landing-page-frontend/builds/235009918"
+    "build_number": "2331",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/landing-page-frontend/builds/235129788"
   }
 }
