@@ -8,14 +8,14 @@
       "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-4.132.2.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "6.15.21",
+      "version": "6.15.22",
       "from": "@patternfly/react-charts@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-6.15.21.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-6.15.22.tgz"
     },
     "@patternfly/react-core": {
-      "version": "4.154.0",
+      "version": "4.155.0",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-4.154.0.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-4.155.0.tgz"
     },
     "@patternfly/react-icons": {
       "version": "4.11.14",
@@ -23,9 +23,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-4.11.14.tgz"
     },
     "@patternfly/react-tokens": {
-      "version": "4.12.16",
+      "version": "4.12.17",
       "from": "@patternfly/react-tokens@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-4.12.16.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-4.12.17.tgz"
     }
   }
 }
