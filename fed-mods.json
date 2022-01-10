@@ -1,7 +1,7 @@
 {
     "landing": {
         "entry": [
-            "/beta/apps/landing/landing.js"
+            "/beta/apps/landing/landing.ebf6c146da05dc9f6b6f.js"
         ],
         "modules": [
             "/beta/apps/landing/js/142.7f530e239ab700dd5a97.js",
