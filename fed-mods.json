@@ -1,12 +1,14 @@
 {
     "landing": {
         "entry": [
-            "/apps/landing/landing.js"
+            "/apps/landing/landing.9a199f49262fcc15e55a.js"
         ],
         "modules": [
-            "/apps/landing/js/142.7f530e239ab700dd5a97.js",
-            "/apps/landing/js/78.389ef2ab26934141c662.js",
-            "/apps/landing/js/598.c3428071d6067beb5f55.js"
+            "/apps/landing/js/847.1647354369112.9a199f49262fcc15e55a.js",
+            "/apps/landing/js/78.1647354369112.9a199f49262fcc15e55a.js",
+            "/apps/landing/css/78.b675a4a86c8efb356d93.css",
+            "/apps/landing/js/598.1647354369112.9a199f49262fcc15e55a.js",
+            "/apps/landing/css/598.188946b44977226643b4.css"
         ]
     }
 }
