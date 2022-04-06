@@ -1,13 +1,13 @@
 {
     "landing": {
         "entry": [
-            "/apps/landing/landing.16047e4f8f0dd480350f.js"
+            "/apps/landing/landing.b2e614112ef2258f234d.js"
         ],
         "modules": [
-            "/apps/landing/js/847.1647416994078.16047e4f8f0dd480350f.js",
-            "/apps/landing/js/78.1647416994078.16047e4f8f0dd480350f.js",
+            "/apps/landing/js/847.1649229994135.b2e614112ef2258f234d.js",
+            "/apps/landing/js/78.1649229994135.b2e614112ef2258f234d.js",
             "/apps/landing/css/78.b675a4a86c8efb356d93.css",
-            "/apps/landing/js/598.1647416994078.16047e4f8f0dd480350f.js",
+            "/apps/landing/js/598.1649229994135.b2e614112ef2258f234d.js",
             "/apps/landing/css/598.188946b44977226643b4.css"
         ]
     }
