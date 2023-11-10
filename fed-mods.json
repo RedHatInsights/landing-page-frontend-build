@@ -1,10 +1,11 @@
 {
-    "landing": {
-        "entry": [
-            "/beta/apps/landing/landing.224af2b216d550f722e6.js"
-        ],
-        "modules": [
-            "/beta/apps/landing/js/142.224af2b216d550f722e6.js"
-        ]
-    }
+  "name": "landing",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "custom",
+  "baseURL": "/beta/apps/landing/",
+  "loadScripts": [
+    "landing.510957aee0b93abc3ca3.js"
+  ],
+  "buildHash": "510957aee0b93abc3ca3fa1bc6505d1c"
 }
