@@ -1,10 +1,11 @@
 {
-    "landing": {
-        "entry": [
-            "/apps/landing/landing.cdd5279acae15c46e27e.js"
-        ],
-        "modules": [
-            "/apps/landing/js/142.cdd5279acae15c46e27e.js"
-        ]
-    }
+  "name": "landing",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "custom",
+  "baseURL": "/apps/landing/",
+  "loadScripts": [
+    "landing.2ded443c99d6e8462e2a.js"
+  ],
+  "buildHash": "2ded443c99d6e8462e2ad2e7524b3bdd"
 }
