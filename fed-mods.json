@@ -5,7 +5,7 @@
   "registrationMethod": "custom",
   "baseURL": "/beta/apps/landing/",
   "loadScripts": [
-    "landing.64aaaf754c01be847b8f.js"
+    "landing.13d4c82d581ed5809283.js"
   ],
-  "buildHash": "64aaaf754c01be847b8fb93a47cfb02b"
+  "buildHash": "13d4c82d581ed58092835394250f3628"
 }
