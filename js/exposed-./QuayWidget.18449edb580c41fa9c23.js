@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklanding=self.webpackChunklanding||[]).push([[7699],{62313:(e,n,a)=>{a.r(n),a.d(n,{default:()=>u});var i=a(28416),l=a.n(i),t=a(95066);const u=()=>l().createElement(l().Fragment,null,l().createElement(t.Z,{id:4,body:"Build, analyze, and distribute your container images.",linkTitle:"Quay.io",url:"/quay/organization"}))}}]);
+//# sourceMappingURL=../../sourcemaps/exposed-./QuayWidget.56c51a535498cd09c633d2b9c499da69.js.map

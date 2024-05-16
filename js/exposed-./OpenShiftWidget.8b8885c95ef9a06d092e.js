@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklanding=self.webpackChunklanding||[]).push([[1923],{12355:(e,n,a)=>{a.r(n),a.d(n,{default:()=>s});var l=a(28416),t=a.n(l),i=a(95066);const s=()=>t().createElement(t().Fragment,null,t().createElement(i.Z,{id:1,body:"Build, run, and scale container-based applications - now with developer tools, CI/CD, and release management.",linkTitle:"OpenShift",url:"/openshift"}))}}]);
+//# sourceMappingURL=../../sourcemaps/exposed-./OpenShiftWidget.796daa3aebbee29cc954e32e914ee9fe.js.map
