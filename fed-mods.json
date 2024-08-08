@@ -1,1 +1,1 @@
-{"name":"landing","version":"1.0.0","extensions":[],"registrationMethod":"custom","baseURL":"/beta/apps/landing/","loadScripts":["landing.256cafbb4354caf9c6bf.js"],"buildHash":"7fd6606c691cfb4727b774fa043130b1"}
+{"name":"landing","version":"1.0.0","extensions":[],"registrationMethod":"custom","baseURL":"/apps/landing/","loadScripts":["landing.f079b49b36f1a91652dc.js"],"buildHash":"0d26414c2f0c075a245e6196a78226ea"}

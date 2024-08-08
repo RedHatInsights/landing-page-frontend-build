@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklanding=self.webpackChunklanding||[]).push([[5775],{4817:(e,n,t)=>{t.r(n),t.d(n,{default:()=>r});var a=t(6029),l=t.n(a),i=t(5066);const r=()=>l().createElement(l().Fragment,null,l().createElement(i.Z,{id:5,body:"Fully hosted software as a service for protecting cloud-native applications and Kubernetes.",linkTitle:"RHACS Cloud Service",url:"/openshift/acs/overview"}))}}]);
+//# sourceMappingURL=../../sourcemaps/exposed-./AcsWidget.7a29f0c731bc9cf77f93fe77ac1792f5.js.map
