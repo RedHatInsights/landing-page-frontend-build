@@ -1,14 +1,14 @@
 {
   "app_name": "landing",
   "node_version": ">=15.0.0",
-  "src_hash": "c2d06bfa3949abf04de097b167028824b498ca0c",
+  "src_hash": "0616c9add14f98ef39f88a6fd4785109a122a204",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@5.1.0","@patternfly/react-core@5.1.1","@patternfly/react-icons@5.3.2","@patternfly/react-table@5.3.3"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/chrome@1.0.4","@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-utilities@4.0.2","@redhat-cloud-services/frontend-components@4.0.14","@redhat-cloud-services/types@1.0.13"],
   "travis": {
     "event_type": "push",
-    "build_number": "4496",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/landing-page-frontend/builds/273150639"
+    "build_number": "4499",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/landing-page-frontend/builds/273169443"
   }
 }
